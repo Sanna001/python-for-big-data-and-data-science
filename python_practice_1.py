@@ -1,0 +1,1 @@
+print("Oksana Afanasieva, CS-- 2024, PythonGroup--1/3")
